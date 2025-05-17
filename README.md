@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 ### Acces to me
 
-<div align="left">
 ![https://instagram.com/ranzmvart](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
