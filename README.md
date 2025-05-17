@@ -1,6 +1,7 @@
 ## Hello Wordl! I'm Ranzmvart 👋
 
-![ranzmvart](img/github-header-image%20(1).png)
+![ranzmvart](img/2742920.png)
+
 <!--
 **ranzmvart/ranzmvart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
