@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->- ⚡ I'm an Electrical Engineering Student ⚡
 -->- 🌱 I’m currently learning **IOT (INTERNET OF THINGS)**
+
 -->- about me :**idk**
 ![ranz](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnU3MmF1ZTA0bWpvY2xnaXQ2MHZ3M2I4eXZlcXFueTd5cHpyanZjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif)
